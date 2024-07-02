@@ -1,0 +1,5 @@
+export const {
+    Port = 8000,
+    SALT_ROUNDS = 10,
+    SECRECT_KEY = "DHADHADADASJDJAJSJDKQFBGQAIDSKED10WE87932HU9332432"
+} = process.env
